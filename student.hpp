@@ -13,13 +13,13 @@ int mul(int a, int b);
 
 int add(int a, int b)
 {
-   sum = a + b;
+   int sum = a + b;
    return sum; // TODO: fix
 }
 
 // Exercise 2: implements function 'mul', that multiplies two numbers
 int mul(int a, int b)
 {
-   mult = a * b;
+   int mult = a * b;
    return mult; // TODO: fix
 }
